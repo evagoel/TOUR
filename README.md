@@ -28,6 +28,15 @@
 - User profile
   - Update username, profile photo, email, and password
 - Credit card payment using Stripe
+Authentication:
+o Unauthenticated users can browse trips and view details.
+o To book a trip, users must log in or sign up.
+Trip Organizer Registration:
+o Provide a registration flow for trip organizers.
+o Registered organizers should have access to a dashboard to:
+▪ Add new trips
+▪ View their added trips
+▪ Edit or delete trips
 
 
 ### Book a tour
@@ -96,6 +105,8 @@ go to dashboard > project > environment
 - [Postman](https://www.getpostman.com/) - API testing
 - [Mailtrap](https://mailtrap.io/) & [Mailgun](https://www.mailgun.com/) - Email delivery platform
 - [Render](https://render.com/) - Cloud platform
+- Frontend:
+ JavaScript, CSS, React
 
 ## To-do
 
@@ -129,6 +140,4 @@ Please enjoy and feel free to share your opinion, constructive criticism, or com
 ## Future Updates
 
 - Improve overall UX/UI and fix bugs
-- Featured Tours
-- Recently Viewed Tours
 - And More ! There's always room for improvement!
