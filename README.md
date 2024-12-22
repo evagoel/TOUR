@@ -1,5 +1,5 @@
 <h1 align="center">
-  Natours
+  Tours
   <br>
 </h1>
 
@@ -19,9 +19,6 @@
   <a href="#acknowledgement">Acknowledgement</a>
 </p>
 
-## Deployed Version
-
-Live demo (Feel free to visit) 👉 : https://natours-jzik.onrender.com
 
 ## Key Features
 
@@ -33,7 +30,6 @@ Live demo (Feel free to visit) 👉 : https://natours-jzik.onrender.com
   - Update username, profile photo, email, and password
 - Credit card payment using Stripe
 
-## How To Use
 
 ### Book a tour
 
@@ -137,7 +133,3 @@ Please enjoy and feel free to share your opinion, constructive criticism, or com
 - Featured Tours
 - Recently Viewed Tours
 - And More ! There's always room for improvement!
-
-## Acknowledgement
-
-- This project is part of the online course I've taken at Udemy. Thanks to [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) for creating this awesome course!
