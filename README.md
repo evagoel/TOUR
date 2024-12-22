@@ -16,7 +16,6 @@
   <a href="#installation">Installation</a> • 
   <a href="#known-bugs">Known Bugs</a> • 
   <a href="#future-updates">Future Updates</a> • 
-  <a href="#acknowledgement">Acknowledgement</a>
 </p>
 
 
